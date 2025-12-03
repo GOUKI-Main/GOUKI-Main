@@ -33,11 +33,6 @@ esp32を用いて会社の事務所内だけで使えるローカルネットワ
 ## 📊 GitHub統計
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOUKI-Main&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=ja"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUKI-Main&layout=compact&langs_count=8&theme=gruvbox&locale=ja"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOUKI-Main&theme=gruvbox" alt="GitHub Streak"/>
 </p>
 
@@ -66,10 +61,3 @@ https://github.com/GOUKI-Main/mysite
 
 ---
 
-<div align="center">
-
- **訪問者数**
-
-![Visitor Count](https://profile-counter.glitch.me/GOUKI-Main/count.svg)
-
-</div>
